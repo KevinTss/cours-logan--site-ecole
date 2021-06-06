@@ -1,0 +1,16 @@
+{
+  "eleves": [
+    {
+      "nom": "Maus",
+      "prenom": "Henry",
+      "date": "01-01-2021",
+      "classe": "6TQ-INFO"
+    },
+    {
+      "nom": "Le grand",
+      "prenom": "Kevin",
+      "date": "01-01-2021",
+      "classe": "6TQ-INFO"
+    }
+  ]
+}
